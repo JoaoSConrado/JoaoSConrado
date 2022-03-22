@@ -12,20 +12,6 @@
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>  
- 
- ### Main skills:
-
-![HTML](https://img.shields.io/badge/-HTML-e152aa?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-e152aa?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-e152aa?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
-
-### Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-e152aa?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
-![Git](https://img.shields.io/badge/-Git-e152aa?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-e152aa?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-e152aa?style=for-the-badge&logo=adobe-photoshop&labelColor=1f004e)&nbsp;
-
   
 ##
   
